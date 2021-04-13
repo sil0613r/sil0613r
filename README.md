@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sil0613r
-- 👀 I’m interested in statistical analysis and data science
 - 🌱 I’m currently learning r and python
 
 
